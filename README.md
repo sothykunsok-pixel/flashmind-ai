@@ -1,0 +1,2 @@
+# flashmind-ai
+flashmind ai
